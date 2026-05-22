@@ -7,7 +7,7 @@
 *Custom software · Cloud infrastructure · AI agents in production*
 
 [![Web](https://img.shields.io/badge/web-asorasolutions.com-2563eb?style=flat-square)](https://asorasolutions.com)
-[![Email](https://img.shields.io/badge/email-hola%40asorasolutions.com-2563eb?style=flat-square)](mailto:hola@asorasolutions.com)
+[![Email](https://img.shields.io/badge/email-hola%40asorasolutions.com-2563eb?style=flat-square)](mailto:tech@asorasolutions.com)
 [![Support](https://img.shields.io/badge/support-24%2F5-22c55e?style=flat-square)]()
 [![Operating in](https://img.shields.io/badge/operating%20in-PE%20·%20CL%20·%20VE%20·%20ES-f59e0b?style=flat-square)]()
 
